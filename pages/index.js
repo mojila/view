@@ -3,7 +3,7 @@ import fetch from 'isomorphic-unfetch'
 function HomePage({ stars }) {
   return <React.Fragment>
       <head>
-          <title>Coba</title>
+          <title>default title</title>
       </head>
       
       <div>Next stars: {stars} -> get from server</div>
