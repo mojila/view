@@ -1,7 +1,7 @@
 {
-  "name": "view",
-  "version": "1.0.0",
-  "description": "",
+  "name": "pinchos-of-the-day",
+  "version": "0.0.1",
+  "description": "<code>npm i</code>",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -10,7 +10,7 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mojila",
   "license": "ISC",
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
@@ -18,5 +18,14 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "tailwindcss": "^1.1.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojila/pinchos-of-the-day.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mojila/pinchos-of-the-day/issues"
+  },
+  "homepage": "https://github.com/mojila/pinchos-of-the-day#readme"
 }
